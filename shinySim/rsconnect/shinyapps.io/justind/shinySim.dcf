@@ -1,0 +1,13 @@
+name: shinySim
+title: shinySim
+username:
+account: justind
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6782838
+bundleId: 6227247
+url: https://justind.shinyapps.io/shinysim/
+when: 1661209744.46623
+lastSyncTime: 1661209744.46624
+asMultiple: FALSE
+asStatic: FALSE
